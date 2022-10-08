@@ -1,3 +1,4 @@
+//This code finds the subtree sum of each subtree and also finds the number of even nodes int the given subtree
 #include<bits/stdc++.h>
 using namespace std;
 const int N=1e5+10;
